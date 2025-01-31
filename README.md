@@ -107,7 +107,5 @@ GET https://flight-status-mock.core.travelopia.cloud/flights/:id
 🚀 **WebSocket Implementation**: Facilitates real-time updates instead of periodic polling.\
 🚀 **Dark Mode Support**: Enhances user experience with theme customization.
 
-## 📧 Contact
 
-For inquiries or suggestions, feel free to reach out! 😊
 
